@@ -1,0 +1,26 @@
+$ node runtime.js
+Results for the extraLargeArray
+insert 1.0339179 s
+append 2.6221 ms
+
+$ node runtime.js
+Results for the largeArray
+insert 8.5322 ms
+append 467.8 μs
+
+$ node runtime.js
+Results for the mediumArray
+insert 169.6 μs
+append 130.1 μs
+
+$ node runtime.js
+Results for the smallArray
+insert 48.8 μs
+append 104.1 μs
+
+$ node runtime.js
+Results for the tinyArray
+insert 116.1 μs
+append 91.6 μs
+
+image.png
